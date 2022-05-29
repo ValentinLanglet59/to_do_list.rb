@@ -3,7 +3,7 @@ class View
     def display_tasks(tasks)
         tasks.each_with_index do |task, index|
             done = task.done? ? " [ x ]" : "[ ]"
-            puts " #{done} #{index + 1}. #{task} - #{task.description}"
+            puts " #{done} #{index + 1}. #{task.description}"
         end
     end
 
