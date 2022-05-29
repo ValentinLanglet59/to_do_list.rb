@@ -4,6 +4,9 @@
 
 ⚡ A little video of the result => 
 
+![2022-05-29 19 02 46](https://user-images.githubusercontent.com/102190834/170882598-ccdf390e-ac06-4f12-b42d-079bff5883a2.gif)
+
+
 ## Features
 
 - Implementation of the CRUD
